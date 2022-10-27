@@ -1,5 +1,6 @@
 package com.w3spoint;
- 
+ //New branch commit
+ // zmiana na branch 3
 import java.util.Random;
  
 public class Test {
