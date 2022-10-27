@@ -7,3 +7,4 @@ Dodane na githubie
 
 
 Zmiany po komicie na nowy branch
+zmiana na branch 2
